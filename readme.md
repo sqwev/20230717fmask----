@@ -6,7 +6,7 @@ Fmask是一款针对Landsat和Sentinel-2的去云软件。但是由于其本身�
 ## 1. Windows上安装Fmask4.6
 
 1. 按照默认安装
-2. 将Fmask安装路径()加入环境变量
+2. 将Fmask安装路径(C:\Program Files\GERS\Fmask_4_6\application)加入环境变量
 
 运行方式
 ```
